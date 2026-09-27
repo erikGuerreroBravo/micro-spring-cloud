@@ -11,6 +11,7 @@
     <groupId>mx.dsicode.springcloud.usuarios</groupId>
     <artifactId>dsicode_usuarios</artifactId>
     <version>0.0.1-SNAPSHOT</version>
+    <packaging>pom</packaging>
     <name>dsicode_usuarios</name>
     <description>dsicode_usuarios</description>
     <url/>
